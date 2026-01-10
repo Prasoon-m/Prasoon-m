@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="./assets/banner/Banner.gif" alt="Prasoon Mishra Banner" style="width:100%; max-height:300px; object-fit:cover;" />
+</p>
 
-<!--
-**Prasoon-m/Prasoon-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Intro -->
+<h2 align="center">
+  👋 Hey there, I'm Prasoon Mishra
+</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate Learner & CSE Undergraduate<br/>
+  Focused on Java and Web Technologies
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Prasoon Mishra**, a final-year **Computer Science Engineering** student, **passionate about Java and web technologies**. I love **turning ideas into reality** by building clean and user-friendly web applications.
+
+🎯 I am currently looking for opportunities to:
+- Work on real-world projects  
+- Contribute to innovative solutions  
+- Grow as a professional software developer  
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science Engineering**  
+Birla Institute of Applied Sciences, Uttarakhand  
+📅 **2022 – 2026**  
+Affiliated with **Uttarakhand Technical University**
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="./assets/icons/java.png" width="40px" alt="Java" />
+  <img src="./assets/icons/js.png" width="40px" alt="JavaScript" />
+  <img src="./assets/icons/html.png" width="40px" alt="HTML" />
+  <img src="./assets/icons/css.png" width="40px" alt="CSS" />
+  <img src="./assets/icons/bootstrap.png" width="40px" alt="Bootstrap" />
+  <img src="./assets/icons/react.png" width="40px" alt="React" />
+  <img src="./assets/icons/git.png" width="40px" alt="Git" />
+  <img src="./assets/icons/github.png" width="40px" alt="GitHub" />
+  <img src="./assets/icons/figma.png" width="40px" alt="Figma" />
+  <img src="./assets/icons/canva.png" width="40px" alt="Canva" />
+</p>
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|-------|------------|-----------|
+| **Metostellar** | Web app showing real-time near-Earth asteroid data using NASA NEO API with clear visualizations | React,Three.Js,Neo API|
+| **AI Resume Builder** | AI-powered resume builder with chatbot support and resume download feature | HTML,CSS,JS,Gemini API|
+| **Alert Shiksha** | Disaster preparedness learning platform with quizzes and adaptive modules | React, Google Gemini API |
+
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 💰 Raised **₹10 Lakh funding** for a startup idea at **Socio Hackathon 2025 (UTU)**  
+- 🏅 Cleared **Round 1 of TCS CodeVita Season 13 (2025)**
+- 🚀 Selected for **Smart India Hackathon (SIH) 2025** (Internal Round)  
+- 📜 **freeCodeCamp – Responsive Web Design Certification**
+
+---
+
+
+
+## 🤝 Let's Connect
+
+- 💼 Open to internships & entry-level opportunities  
+- 🌱 Always learning and improving  
+- ⭐ Feel free to explore my repositories and connect!
