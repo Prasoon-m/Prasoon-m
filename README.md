@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="./assets/banner/Banner.gif" alt="Prasoon Mishra Banner" style="width:100%; max-height:300px; object-fit:cover;" />
+  <img src="./assets/banner/Github%20Banner.png" alt="Prasoon Mishra Banner" style="width:100%; max-height:300px; object-fit:cover;" />
 </p>
+
 
 <!-- Intro -->
 <h2 align="center">
