@@ -10,9 +10,11 @@
 </h2>
 
 <p align="center">
-  Passionate Learner & CSE Undergraduate<br/>
-  Focused on Java and Web Technologies
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=500&lines=Passionate+Learner+%26+CSE+Undergraduate;Focused+on+Java+and+Web+Technologies" />
 </p>
+
+
+
 
 ---
 
