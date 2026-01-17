@@ -43,14 +43,14 @@ Affiliated with **Uttarakhand Technical University**
 <p align="center">
   <img src="./assets/banner/java.png" width="40px" alt="Java" />
   <img src="./assets/banner/js.png" width="40px" alt="JavaScript" />
-  <img src="./assets/icons/html.png" width="40px" alt="HTML" />
-  <img src="./assets/icons/css.png" width="40px" alt="CSS" />
-  <img src="./assets/icons/bootstrap.png" width="40px" alt="Bootstrap" />
-  <img src="./assets/icons/react.png" width="40px" alt="React" />
-  <img src="./assets/icons/git.png" width="40px" alt="Git" />
-  <img src="./assets/icons/github.png" width="40px" alt="GitHub" />
-  <img src="./assets/icons/figma.png" width="40px" alt="Figma" />
-  <img src="./assets/icons/canva.png" width="40px" alt="Canva" />
+  <img src="./assets/banner/html.png" width="30px" alt="HTML" />
+  <img src="./assets/banner/css.png" width="40px" alt="CSS" />
+  <img src="./assets/banner/bootstrap.png" width="40px" alt="Bootstrap" />
+  <img src="./assets/banner/react.png" width="40px" alt="React" />
+  <img src="./assets/banner/git.png" width="40px" alt="Git" />
+  <img src="./assets/banner/github.png" width="40px" alt="GitHub" />
+  <img src="./assets/banner/figma.png" width="40px" alt="Figma" />
+  <img src="./assets/banner/canva.png" width="40px" alt="Canva" />
 </p>
 
 ---
