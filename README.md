@@ -41,8 +41,8 @@ Affiliated with **Uttarakhand Technical University**
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="./assets/icons/java.png" width="40px" alt="Java" />
-  <img src="./assets/icons/js.png" width="40px" alt="JavaScript" />
+  <img src="./assets/banner/java.png" width="40px" alt="Java" />
+  <img src="./assets/banner/js.png" width="40px" alt="JavaScript" />
   <img src="./assets/icons/html.png" width="40px" alt="HTML" />
   <img src="./assets/icons/css.png" width="40px" alt="CSS" />
   <img src="./assets/icons/bootstrap.png" width="40px" alt="Bootstrap" />
